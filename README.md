@@ -4,6 +4,17 @@
 
 Welcome to my GitHub profile! I'm a passionate backend developer with expertise in building scalable SaaS applications, integrating AI/ML models into production systems, and optimizing database performance.
 
+## 🔍 My Journey Into Tech
+
+I started my career with a background in biotechnology (B.Tech & M.Tech), but discovered my true passion lies in solving complex problems through code. My curiosity about how systems work led me to dive deep into backend engineering and software architecture. Today, I blend my analytical mindset with technical expertise to build robust, scalable solutions.
+
+**Why I Love Backend Development:**
+- Fascinated by building systems that power real-world applications
+- Driven by the challenge of optimizing performance and scalability
+- Curious explorer of emerging technologies and best practices
+- Believer in clean code and architectural excellence
+
+
 ## 🚀 About Me
 
 - 🎓 **M.Tech** from Institute of Chemical Technology, Mumbai (CGPA: 9.49)
@@ -11,6 +22,7 @@ Welcome to my GitHub profile! I'm a passionate backend developer with expertise 
 - 💼 Currently working at **Goflamingo Business Services Pvt Ltd**
 - 📍 Based in **India**
 - 🌱 Continuously learning advanced concepts in system design, machine learning, and cloud technologies
+-  Naturally curious — constantly exploring new tools, frameworks, and paradigms in backend development
 
 ## 🛠️ Tech Stack
 
@@ -107,6 +119,7 @@ Django implementation of Google OAuth with django-allauth
 - 🤖 Integrating AI/ML models into production applications
 - 🚀 Exploring system design patterns and distributed systems
 - 📖 Contributing to open-source projects
+- - 🔍 Staying curious about emerging technologies and industry trends
 
 ---
 
